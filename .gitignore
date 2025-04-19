@@ -1,0 +1,5 @@
+.env
+reviews/*.csv
+users/*.json
+steamspy_pages/steamspy_page_*.csv
+.DS_Store
