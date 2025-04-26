@@ -1,0 +1,16 @@
+name: steamgraph
+channels:
+  - pytorch
+  - pyg
+  - conda-forge
+dependencies:
+  - tqdm
+  - python=3.11
+  - pytorch
+  - torchvision
+  - torchaudio
+  - pyg
+  - numpy
+  - scipy
+  - networkx
+  - pandas
